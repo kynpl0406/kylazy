@@ -1,0 +1,5 @@
+{
+  "name": "Flood Monitoring System",
+  "description": "Real-time water level dashboard for Vinh University with dark mode, live charts, and status indicators.",
+  "requestFramePermissions": []
+}
